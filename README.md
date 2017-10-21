@@ -8,7 +8,7 @@ Urbit, an experimental from-scratch operating system and networking stack, uses 
 
 ## What is Nockxir?
 
-Nockxir is an Elixir-based Nock interpreter. Instead of the square bracket syntax, we use the native tuple type inside of Elixir - which maintains the semantics, but makes the syntax a little nicer.
+Nockxir is an Elixir-based Nock interpreter. Instead of the square bracket syntax, we use the native tuple type inside of Elixir - which maintains the semantics, but makes the syntax a little nicer. Why use Elixir in the first place? Its elegant pattern matching syntax with function parameters means we can implement Nock's combinators with clarity.
 
 ## Nock rules
 
